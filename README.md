@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **DSA, Java, Javascript, NodeJS, Express, Typescript, Databases, Design Principles**
+- 💬 Ask me about **DSA, Java, Javascript, NodeJS, Express, Typescript, Databases, AWS, Serverless, Design Principles**
 
 - 📫 How to reach me **prithwishdas60@gmail.com**
 
