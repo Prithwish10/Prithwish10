@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prithwishdas60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JUPARiKSIQz0WDYkvs_vv_XcL0yx60WH/view?usp=sharing](https://drive.google.com/file/d/1JUPARiKSIQz0WDYkvs_vv_XcL0yx60WH/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1rCZiuMw_W2Umg8BkOcuxEmfYjCZBvoTx/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
