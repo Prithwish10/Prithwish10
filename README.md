@@ -130,6 +130,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.serverless.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg"
+      alt="serverless"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
