@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://Prithwish10.io)
 <h1 align="center">Hi 👋, I'm Prithwish Das</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A passionate software engineer from India, currently working at PwC</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwish10&label=Profile%20views&color=0e75b6&style=flat" alt="prithwish10" /> </p>
 
