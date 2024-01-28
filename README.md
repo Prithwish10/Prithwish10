@@ -95,7 +95,7 @@
   </a>
 </p>
 
-<h3 align="left">Frameworks amd Runtime:</h3>
+<h3 align="left">Frameworks and Runtime:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
